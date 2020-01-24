@@ -8,6 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   groomies = ["Nick", "Nathan", "Ben", "Trevor"]
+  
   groomies << "Phil"
 end
 
