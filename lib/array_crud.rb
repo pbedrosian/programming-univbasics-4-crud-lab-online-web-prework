@@ -34,13 +34,16 @@ def retrieve_element_from_index(array, index_number)
 end
 
 def retrieve_first_element_from_array(array)
-  
+    groomies = ["wow", "Nick", "Nathan", "am", "Ben"]
+    groomies[0]
 end
 
 def retrieve_last_element_from_array(array)
-  
+    groomies = ["Nick", "Nathan", "am", "Ben", "arrays!"]
+    groomies[-1]
 end
 
 def update_element_from_index(array, index_number, element)
-
+  groomies = ["Nick", "Nathan", "am", "Ben", "help me"]
+  groomies[4] = "totally"
 end
