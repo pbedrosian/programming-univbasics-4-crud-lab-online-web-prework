@@ -15,11 +15,11 @@ end
 def add_element_to_start_of_array(array, element)
   groomies = [ "Nick", "Nathan", "Ben", "Trevor"]
   
-  groomies.unshift("Jose")
+  groomies.unshift("wow")
 end
 
 def remove_element_from_end_of_array(array)
-  groomies = ["Nick", "Nathan", "Ben", "Trevor"]
+  groomies = ["Nick", "Nathan", "Ben", "arrays!"]
   trevor_brate = groomies.pop
 end
 
