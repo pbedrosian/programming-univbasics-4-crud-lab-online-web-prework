@@ -15,7 +15,7 @@ end
 def add_element_to_start_of_array(array, element)
   groomies = [ "Nick", "Nathan", "Ben", "Trevor"]
   
-  groomies.unshift
+  groomies.unshift("Jose")
 end
 
 def remove_element_from_end_of_array(array)
