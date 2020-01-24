@@ -20,7 +20,7 @@ end
 
 def remove_element_from_end_of_array(array)
   groomies = ["Nick", "Nathan", "Ben", "Trevor"]
-  groomies.pop()
+  trevor_brate = groomies.pop
 end
 
 def remove_element_from_start_of_array(array)
